@@ -37,7 +37,7 @@ Terminal: gnome-terminal
 ```
 
 ```
-SkillsJames Mi
+Skills
 -----------------
 Operating Systems: Ubuntu, Debian, Fedora, Arch Linux, Windows 7 / 8 / 10 / Server, Mac OSX
 
