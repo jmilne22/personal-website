@@ -37,9 +37,9 @@ Terminal: gnome-terminal
 ```
 
 ```
-Skills
+SkillsJames Mi
 -----------------
-Operating Systems: Ubuntu, Debian, Fedora, Arch Linux, Windows 7 / 8 / 10,Server, Mac OSX
+Operating Systems: Ubuntu, Debian, Fedora, Arch Linux, Windows 7 / 8 / 10 / Server, Mac OSX
 
 Languages: HTML, JavaScript, JQuery, CSS, Python, Java, C#, MySQL, Bash
 
