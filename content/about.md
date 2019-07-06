@@ -20,7 +20,7 @@ Work Experience
 ----------------- 
 Ample Organics - Systems Administrator (February 2017 - March 2018)
 Rian Consulting - Jr Systems Administrator (November 2017 - Febuary 2017)
-Fiera Foods Company - IT Support Connection (October 2013 - August 2014)
+Fiera Foods Company - IT Support Technician (October 2013 - August 2014)
 ```
 
 ```
