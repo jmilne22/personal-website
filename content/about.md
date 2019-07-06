@@ -30,7 +30,6 @@ CPU: Ryzen 7 2700x
 GPU: Nvidia GTX 1080TI
 Memory: 16gb
 OS: Fedora release 30 (Thirty) x86_64 
-Host: 20F6006TUS ThinkPad X260 
 Kernel: 5.1.15-300.fc30.x86_64 
 DE: GNOME 3.32.2 
 WM: GNOME Shell 
